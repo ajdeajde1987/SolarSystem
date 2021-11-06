@@ -15,5 +15,12 @@ public class Main {
 	mikeSun.radius="90000000k";
 	mikeSun.maritalStatus="in love ";
 
+	//planet2 features
+
+		Planet2 bastronaut=new Planet2();
+		bastronaut.color="blue";
+		bastronaut.size="8947938758935";
+		bastronaut.status="single";
+
     }
 }
